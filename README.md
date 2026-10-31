@@ -11,3 +11,5 @@ Task 2.4 was the hardest of the 4 tasks, and it took us the longest to figure ou
 The .md file contains our challenge questions.
 
 main.ipynb contains main our code and write-up submission.
+
+appendix.ipynb contains some post-competition remarks and derivations. Given the 24 hour time constraint, some of my derivations were not fully correct/rigorous. The appendix addresses some holes in my derivations. 
