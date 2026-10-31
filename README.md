@@ -4,7 +4,7 @@ Given 24 hours, we were tasked with understanding how Alice and Bob uses the coh
 
 The difficulty of this challenge was to understand lots of new, complex ideas in a short span of time. The breadth of concepts spanned quantum physics, quantum information, AMO physics, mathematics, condensed matter, and superconducting qubits. 
 
-According to judges, our project stood out because we had the best physics. This was an intentional approach on our end, and the only approach I knew how to do well. Rather than come up with creative side projects like video games and animations, we focused all our attention to answering the questions posed by Wes and coming up with the mathematical justification and physics intuition behind each answer.
+According to judges, our project stood out because we had the best physics. This was an intentional approach on our end, and the only approach I knew how to do well. Rather than come up with creative side projects like video games and animations, we focused all our attention on answering the questions posed by Wes and coming up with the mathematical justification and physics intuition behind each answer.
 
 Task 2.4 was the hardest of the 4 tasks, and it took us the longest to figure out. I called this "problem 6" in honor of the infamous problem 6 on the IMO. 
 
